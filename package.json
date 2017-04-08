@@ -3,6 +3,6 @@
   "description": "Mobile Planner",
   "main": "myApp.js",
   "dependencies": {
-    "tabris":"2.0.0"
+    "tabris":"2.0.0-beta2"
   }
 }
