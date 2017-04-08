@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="myApp" version="1.0.0">
+<widget id="com.perseos.plunder" version="1.0.0">
   <name>Plunder</name>
   <description>
     A mobile Planner
