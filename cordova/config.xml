@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="myApp" version="1.0.0">
+  <name>Plunder</name>
+  <description>
+    A mobile Planner
+  </description>
+  <author> email="sackboy901@gmail.com"
+    Perseos
+  </author>
+</widget>
